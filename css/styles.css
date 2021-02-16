@@ -680,7 +680,7 @@ textarea {
 
 .footer-soc-icons:hover,
 .footer-soc-icons:focus {
-  background-color: var(--brand-color);
+  /* background-color: var(--brand-color); */
 }
 
 .footer-send {
